@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255, 0, 136);
+  }
+
+h1 { 
+    color: rgb(255, 255, 255);
+   margin-left: 15%;
+    font-size: 1800%;
+    font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+
+
+  }
+
+  a {
+ color:rgb(34, 255, 0);
+ font-size: 200%;
+font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+background-color: black;
+  }
